@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+appbackup.py
+linearsearch.c
+.env
+.env.*
+.streamlit/secrets.toml
