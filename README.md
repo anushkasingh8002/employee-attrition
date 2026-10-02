@@ -207,7 +207,7 @@ This project is intended for educational and demonstration purposes. The predict
 
 **Anushka Singh**  
 *B.Tech Computer Science & Engineering*  
-*Machine Learning & Software Development*  
+*Building Data-Driven HR Analytics & Machine Learning Solutions*  
 [GitHub](https://github.com/anushkasingh8002)
 
 ---
